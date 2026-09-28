@@ -1,0 +1,15 @@
+# Dataset shards fetched by download.py -- ~13 GiB, never commit these.
+data/
+*.parquet
+*.parquet.part
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/

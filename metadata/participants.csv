@@ -1,0 +1,844 @@
+id,gender,age,ethnicity,home_language
+spk00001,Male,23 - 30,"West Asian (Middle Eastern, North African etc.)",Arabic
+spk00002,Female,31 - 45,White,English
+spk00003,Male,46 - 65,"Hispanic, Latino, or Spanish",Spanish
+spk00004,Female,46 - 65,Black or African American,English
+spk00005,Male,46 - 65,White,English
+spk00006,Male,46 - 65,East Asian,Chinese
+spk00007,Male,46 - 65,White,English
+spk00008,Male,18 - 45,White,English
+spk00009,Male,31 - 45,"West Asian (Middle Eastern, North African etc.)",English
+spk00010,Female,46 - 65,Black or African American,English
+spk00011,Female,31 - 45,Native Hawaiian or Other Pacific Islander,English
+spk00012,Male,46 - 65,White,English
+spk00013,Female,31 - 45,"Hispanic, Latino, or Spanish",English
+spk00014,Female,46 - 65,White,English
+spk00015,Male,31 - 45,Black or African American,English
+spk00016,Male,66+,White,English
+spk00017,Female,31 - 45,"Hispanic, Latino, or Spanish",English
+spk00018,Male,31 - 45,White,English
+spk00019,Female,31 - 45,Southeast Asian,English
+spk00020,Female,31 - 45,"West Asian (Middle Eastern, North African etc.)",English
+spk00021,Male,31 - 45,Southeast Asian,Vietnamese
+spk00022,Male,31 - 45,White,English
+spk00023,Male,46 - 65,White,English
+spk00024,Female,23 - 30,South Asian,English
+spk00025,Female,31 - 45,"Hispanic, Latino, or Spanish",Spanish
+spk00026,Female,46 - 65,White,English
+spk00027,Female,46 - 65,White,English
+spk00028,Female,46 - 65,White,English
+spk00029,Female,31 - 45,White,English
+spk00030,Male,46 - 65,White,Farsi
+spk00031,Female,31 - 45,Black or African American,English
+spk00032,Male,46 - 65,"Hispanic, Latino, or Spanish",English
+spk00033,Male,23 - 30,Black or African American,English
+spk00034,Female,31 - 45,Black or African American,English
+spk00035,Male,31 - 45,Black or African American,English
+spk00036,Female,31 - 45,"Indigenous (Native American, American Indian, Alaska Native etc)",English
+spk00037,Non-Binary,31 - 45,White,English
+spk00038,Male,31 - 45,Southeast Asian,English
+spk00039,Female,46 - 65,Black or African American,English
+spk00040,Female,23 - 30,East Asian,English
+spk00041,Male,31 - 45,Black or African American,English
+spk00042,Female,31 - 45,"Indigenous (Native American, American Indian, Alaska Native etc)",English
+spk00043,Female,31 - 45,Southeast Asian,English
+spk00044,Female,31 - 45,"Hispanic, Latino, or Spanish",English
+spk00045,Female,31 - 45,White,English
+spk00046,Female,23 - 30,"Hispanic, Latino, or Spanish",English
+spk00047,Female,31 - 45,"Indigenous (Native American, American Indian, Alaska Native etc)",English
+spk00048,Male,18 - 45,Black or African American,English
+spk00049,Female,31 - 45,Black or African American,English
+spk00050,Female,18 - 45,White,English
+spk00051,Male,31 - 45,Black or African American,English
+spk00052,Female,46 - 65,"Indigenous (Native American, American Indian, Alaska Native etc)",English
+spk00053,Male,46 - 65,White,English
+spk00054,Female,31 - 45,"Hispanic, Latino, or Spanish",English
+spk00055,Male,31 - 45,"Indigenous (Native American, American Indian, Alaska Native etc)",English
+spk00056,Male,31 - 45,"West Asian (Middle Eastern, North African etc.)",English
+spk00057,Female,31 - 45,"Hispanic, Latino, or Spanish",Spanish
+spk00058,Female,31 - 45,East Asian,English
+spk00059,Female,46 - 65,"Indigenous (Native American, American Indian, Alaska Native etc)",English
+spk00060,Male,31 - 45,White,English
+spk00061,Female,46 - 65,"Hispanic, Latino, or Spanish",Spanish
+spk00062,Female,31 - 45,South Asian,English
+spk00063,Male,31 - 45,White,English
+spk00064,Male,31 - 45,Black or African American,English
+spk00065,Female,31 - 45,Southeast Asian,English
+spk00066,Male,46 - 65,"Hispanic, Latino, or Spanish","Spanish , Portuguese and English"
+spk00067,Female,23 - 30,"Hispanic, Latino, or Spanish",English
+spk00068,Female,31 - 45,Southeast Asian,English
+spk00069,Male,46 - 65,White,English
+spk00070,Female,46 - 65,White,English
+spk00071,Female,66+,White,English
+spk00072,Male,46 - 65,White,English
+spk00073,Male,31 - 45,Black or African American,English
+spk00074,Female,46 - 65,"Indigenous (Native American, American Indian, Alaska Native etc)",English
+spk00075,Male,23 - 30,South Asian,Telugu
+spk00076,Female,46 - 65,East Asian,English
+spk00077,Female,31 - 45,"Indigenous (Native American, American Indian, Alaska Native etc)",English
+spk00078,Female,23 - 30,"Indigenous (Native American, American Indian, Alaska Native etc)",English
+spk00079,Male,23 - 30,Black or African American,English
+spk00080,Male,66+,White,English
+spk00081,Female,31 - 45,South Asian,Hindi
+spk00082,Male,18 - 22,Southeast Asian,Vietnamese
+spk00083,Female,31 - 45,"Hispanic, Latino, or Spanish",English
+spk00084,Female,23 - 30,"Hispanic, Latino, or Spanish",English
+spk00085,Female,31 - 45,White,English
+spk00086,Female,23 - 30,"Hispanic, Latino, or Spanish",English
+spk00087,Female,23 - 30,"Hispanic, Latino, or Spanish",Both
+spk00088,Female,46 - 65,Black or African American,English
+spk00089,Female,46 - 65,East Asian,English
+spk00090,Male,18 - 22,Black or African American,English
+spk00091,Male,18 - 22,"Hispanic, Latino or Spanish",Spanish
+spk00092,Female,66+,Black or African American,English
+spk00093,Female,46 - 65,Native Hawaiian or Other Pacific Islander,Pidgin
+spk00094,Female,31 - 45,Native Hawaiian or Other Pacific Islander,English
+spk00095,Female,18 - 22,"Hispanic, Latino, or Spanish",English
+spk00096,Female,31 - 45,East Asian,English only
+spk00097,Non-Binary,31 - 45,White,English
+spk00098,Female,31 - 45,"Indigenous (Native American, American Indian, Alaska Native etc)",English
+spk00099,Male,46 - 65,"Hispanic, Latino, or Spanish",English
+spk00100,Female,31 - 45,"Indigenous (Native American, American Indian, Alaska Native etc)",English
+spk00101,Male,23 - 30,Black or African American,English
+spk00102,Female,46 - 65,"Hispanic, Latino, or Spanish",English
+spk00103,Male,23 - 30,White,English
+spk00104,Female,46 - 65,"Hispanic, Latino, or Spanish",English
+spk00105,Female,46 - 65,White,English
+spk00106,Non-Binary,23 - 30,"Hispanic, Latino, or Spanish",English
+spk00107,Female,46 - 65,White,English
+spk00108,Female,46 - 65,"Hispanic, Latino, or Spanish",English
+spk00109,Female,46 - 65,White,English
+spk00110,Female,46 - 65,Black or African American,English
+spk00111,Female,23 - 30,Southeast Asian,English
+spk00112,Female,23 - 30,"Hispanic, Latino, or Spanish",Spanish
+spk00113,Male,31 - 45,"Indigenous (Native American, American Indian, Alaska Native etc)",English
+spk00114,Female,31 - 45,"West Asian (Middle Eastern, North African etc.)",English
+spk00115,Female,31 - 45,White,Arabic
+spk00116,Female,31 - 45,"Hispanic, Latino, or Spanish",English
+spk00117,Female,31 - 45,Black or African American,English
+spk00118,Male,23 - 30,Southeast Asian,Gujarati
+spk00119,Female,46 - 65,"Indigenous (Native American, American Indian, Alaska Native etc)",English
+spk00120,Female,31 - 45,Southeast Asian,English
+spk00121,Male,46 - 65,"Hispanic, Latino, or Spanish",Spanish
+spk00122,Female,46 - 65,Black or African American,English
+spk00123,Male,46 - 65,White,English
+spk00124,Male,46 - 65,Black or African American,English
+spk00125,Female,31 - 45,"Hispanic, Latino, or Spanish",English
+spk00126,Female,18 - 45,Black or African American,English
+spk00127,Female,31 - 45,South Asian,English
+spk00128,Female,31 - 45,South Asian,English
+spk00129,Female,31 - 45,Southeast Asian,English
+spk00130,Female,31 - 45,White,English
+spk00131,Female,31 - 45,Southeast Asian,Indonesia and English 50-50
+spk00132,Male,31 - 45,"Hispanic, Latino, or Spanish",English
+spk00133,Male,31 - 45,Black or African American,English
+spk00134,Female,31 - 45,"Hispanic, Latino, or Spanish",English
+spk00135,Female,18 - 22,"Hispanic, Latino, or Spanish",English
+spk00136,Female,66+,White,English
+spk00137,Female,31 - 45,"Hispanic, Latino, or Spanish",Spanish and English
+spk00138,Female,66+,Black or African American,English
+spk00139,Non-Binary,31 - 45,White,English
+spk00140,Female,23 - 30,"Hispanic, Latino, or Spanish",English
+spk00141,Female,46 - 65,"Indigenous (Native American, American Indian, Alaska Native etc)",English
+spk00142,Male,31 - 45,South Asian,English
+spk00143,Female,31 - 45,East Asian,English
+spk00144,Female,31 - 45,"Hispanic, Latino, or Spanish",English
+spk00145,Female,46 - 65,White,English
+spk00146,Female,46 - 65,"Hispanic, Latino, or Spanish",Spanish
+spk00147,Male,31 - 45,South Asian,English
+spk00148,Male,23 - 30,"Hispanic, Latino, or Spanish",English
+spk00149,Male,31 - 45,Black or African American,English
+spk00150,Female,31 - 45,East Asian,English
+spk00151,Male,66+,White,English
+spk00152,Female,23 - 30,White,English
+spk00153,Female,31 - 45,Black or African American,English
+spk00154,Male,23 - 30,Southeast Asian,Nepali
+spk00155,Male,46 - 65,White,English
+spk00156,Male,31 - 45,White,English
+spk00157,Female,23 - 30,Southeast Asian,English
+spk00158,Female,31 - 45,South Asian,English
+spk00159,Female,31 - 45,"Hispanic, Latino, or Spanish",English
+spk00160,Female,46 - 65,"West Asian (Middle Eastern, North African etc.)",English
+spk00161,Female,31 - 45,"Indigenous (Native American, American Indian, Alaska Native etc)",English
+spk00162,Female,31 - 45,White,English
+spk00163,Female,31 - 45,"Hispanic, Latino, or Spanish",English
+spk00164,Female,31 - 45,"Hispanic, Latino, or Spanish",English
+spk00165,Female,46 - 65,Black or African American,english
+spk00166,Male,31 - 45,"Indigenous (Native American, American Indian, Alaska Native etc)",English
+spk00167,Female,23 - 30,"Hispanic, Latino or Spanish",Spanish
+spk00168,Female,46 - 65,"Hispanic, Latino, or Spanish",English
+spk00169,Male,18 - 45,"Indigenous (Native American, American Indian, Alaska Native etc)",English
+spk00170,Male,46 - 65,South Asian,Kannada
+spk00171,Male,66+,White,English
+spk00172,Female,31 - 45,"Indigenous (Native American, American Indian, Alaska Native etc)",English
+spk00173,Female,31 - 45,"Hispanic, Latino or Spanish",Spanish
+spk00174,Female,31 - 45,"Hispanic, Latino, or Spanish",English
+spk00175,Female,31 - 45,"Hispanic, Latino, or Spanish",English
+spk00176,Female,31 - 45,"Hispanic, Latino, or Spanish",English
+spk00177,Male,18 - 22,"Hispanic, Latino, or Spanish",English
+spk00178,Male,31 - 45,Black or African American,English
+spk00179,Female,31 - 45,Black or African American,English
+spk00180,Female,31 - 45,Other,English
+spk00181,Female,23 - 30,"Hispanic, Latino, or Spanish",English
+spk00182,Female,46 - 65,"Hispanic, Latino, or Spanish",English
+spk00183,Non-Binary,23 - 30,White,English
+spk00184,Male,23 - 30,Southeast Asian,English
+spk00185,Non-Binary,23 - 30,Black or African American,English
+spk00186,Male,31 - 45,White,English
+spk00187,Female,23 - 30,Southeast Asian,English
+spk00188,Female,46 - 65,"Hispanic, Latino, or Spanish",Spanish and English
+spk00189,Male,31 - 45,"Hispanic, Latino, or Spanish",Spanish
+spk00190,Male,46 - 65,White,English
+spk00191,Female,31 - 45,"Hispanic, Latino, or Spanish",English
+spk00192,Female,31 - 45,"Indigenous (Native American, American Indian, Alaska Native etc)",English
+spk00193,Female,31 - 45,"Hispanic, Latino, or Spanish",English
+spk00194,Female,23 - 30,South Asian,English
+spk00195,Female,31 - 45,"Hispanic, Latino, or Spanish",English
+spk00196,Female,31 - 45,"Indigenous (Native American, American Indian, Alaska Native etc)",English
+spk00197,Female,46 - 65,White,English
+spk00198,Female,66+,White,English
+spk00199,Female,23 - 30,"Hispanic, Latino, or Spanish",English
+spk00200,Female,31 - 45,Black or African American,French
+spk00201,Male,46 - 65,White,English
+spk00202,Female,31 - 45,White,English
+spk00203,Female,23 - 30,"Hispanic, Latino or Spanish",English
+spk00204,Female,46 - 65,Southeast Asian,English
+spk00205,Male,31 - 45,White,English
+spk00206,Female,46 - 65,"Indigenous (Native American, American Indian, Alaska Native etc)",English
+spk00207,Female,46 - 65,"Indigenous (Native American, American Indian, Alaska Native etc)",English
+spk00208,Female,46 - 65,White,English
+spk00209,Male,31 - 45,Black or African American,English
+spk00210,Female,31 - 45,"Indigenous (Native American, American Indian, Alaska Native etc)",English
+spk00211,Female,31 - 45,"Hispanic, Latino, or Spanish",Spanish
+spk00212,Female,31 - 45,South Asian,English
+spk00213,Female,23 - 30,Black or African American,Igbo
+spk00214,Male,46 - 65,White,English
+spk00215,Female,31 - 45,"Hispanic, Latino, or Spanish",About the same
+spk00216,Male,23 - 30,Black or African American,"French , Creoles"
+spk00217,Male,46 - 65,White,English
+spk00218,Female,31 - 45,"Hispanic, Latino, or Spanish",English
+spk00219,Male,46 - 65,South Asian,English
+spk00220,Female,31 - 45,South Asian,Tamil
+spk00221,Female,46 - 65,Black or African American,English
+spk00222,Female,31 - 45,South Asian,English
+spk00223,Female,23 - 30,White,English
+spk00224,Male,31 - 45,East Asian,English
+spk00225,Female,31 - 45,East Asian,English
+spk00226,Male,23 - 30,White,English
+spk00227,Male,23 - 30,East Asian,Korean
+spk00228,Female,66+,White,English
+spk00229,Female,31 - 45,East Asian,English
+spk00230,Male,66+,"West Asian (Middle Eastern, North African etc.)",English
+spk00231,Male,23 - 30,"Indigenous (Native American, American Indian, Alaska Native etc)",English
+spk00232,Female,31 - 45,"Hispanic, Latino, or Spanish",English
+spk00233,Female,23 - 30,"West Asian (Middle Eastern, North African etc.)",English
+spk00234,Female,31 - 45,"Hispanic, Latino, or Spanish",Spanish
+spk00235,Female,46 - 65,White,English
+spk00236,Male,23 - 30,"Hispanic, Latino, or Spanish",English
+spk00237,Male,31 - 45,East Asian,Chinese
+spk00238,Female,46 - 65,"Hispanic, Latino, or Spanish",English
+spk00239,Male,46 - 65,Black or African American,English
+spk00240,Female,31 - 45,"Hispanic, Latino, or Spanish",English
+spk00241,Male,46 - 65,East Asian,English
+spk00242,Male,23 - 30,White,English
+spk00243,Male,31 - 45,White,English
+spk00244,Male,31 - 45,White,English
+spk00245,Female,46 - 65,"Hispanic, Latino, or Spanish",English
+spk00246,Female,66+,White,English
+spk00247,Male,66+,Black or African American,English
+spk00248,Male,46 - 65,Black or African American,English
+spk00249,Female,31 - 45,Black or African American,English
+spk00250,Male,31 - 45,White,English
+spk00251,Female,46 - 65,White,English
+spk00252,Male,46 - 65,White,English
+spk00253,Male,46 - 65,White,English
+spk00254,Female,31 - 45,"Hispanic, Latino, or Spanish",Spanish
+spk00255,Female,31 - 45,Southeast Asian,English
+spk00256,Male,31 - 45,Southeast Asian,English
+spk00257,Male,31 - 45,"Hispanic, Latino, or Spanish",English
+spk00258,Male,31 - 45,"Hispanic, Latino, or Spanish",Spanish
+spk00259,Male,23 - 30,South Asian,English
+spk00260,Female,31 - 45,"Indigenous (Native American, American Indian, Alaska Native etc)",English
+spk00261,Male,46 - 65,White,English
+spk00262,Male,18 - 22,"Hispanic, Latino, or Spanish",English
+spk00263,Male,46 - 65,White,English
+spk00264,Male,46 - 65,Black or African American,English
+spk00265,Male,31 - 45,"Indigenous (Native American, American Indian, Alaska Native etc)",English
+spk00266,Male,23 - 30,Black or African American,English
+spk00267,Male,31 - 45,White,English
+spk00268,Female,31 - 45,White,"Ukrainian, Russian"
+spk00269,Male,31 - 45,"Indigenous (Native American, American Indian, Alaska Native etc)",English
+spk00270,Female,31 - 45,"Indigenous (Native American, American Indian, Alaska Native etc)",English
+spk00271,Female,31 - 45,"Hispanic, Latino, or Spanish",English
+spk00272,Female,46 - 65,White,English
+spk00273,Non-Binary,31 - 45,Southeast Asian,English
+spk00274,Male,31 - 45,White,English
+spk00275,Female,31 - 45,White,Spanish
+spk00276,Female,31 - 45,White,Turkish
+spk00277,Male,46 - 65,White,English
+spk00278,Female,31 - 45,East Asian,Korean
+spk00279,Male,46 - 65,East Asian,English
+spk00280,Female,31 - 45,Southeast Asian,English
+spk00281,Female,46 - 65,Black or African American,English
+spk00282,Male,31 - 45,White,English
+spk00283,Female,46 - 65,White,English
+spk00284,Female,46 - 65,White,English
+spk00285,Male,31 - 45,"Hispanic, Latino, or Spanish",English
+spk00286,Male,31 - 45,Black or African American,English
+spk00287,Non-Binary,31 - 45,Black or African American,English
+spk00288,Female,31 - 45,Southeast Asian,English
+spk00289,Male,23 - 30,East Asian,English
+spk00290,Male,46 - 65,White,English
+spk00291,Male,31 - 45,"Hispanic, Latino, or Spanish",English
+spk00292,Female,46 - 65,White,english
+spk00293,Female,31 - 45,"Hispanic, Latino, or Spanish",English
+spk00294,Male,23 - 30,East Asian,Chinese
+spk00295,Female,46 - 65,Black or African American,English
+spk00296,Female,31 - 45,"Hispanic, Latino, or Spanish",Spanish
+spk00297,Male,46 - 65,White,English
+spk00298,Female,31 - 45,"Indigenous (Native American, American Indian, Alaska Native etc)",English
+spk00299,Male,31 - 45,Black or African American,English
+spk00300,Female,31 - 45,Southeast Asian,English
+spk00301,Female,23 - 30,Black or African American,Somali
+spk00302,Male,18 - 22,Black or African American,Yoruba
+spk00303,Female,31 - 45,South Asian,English
+spk00304,Female,23 - 30,Southeast Asian,English
+spk00305,Female,31 - 45,Black or African American,Pidgin English
+spk00306,Male,18 - 45,Black or African American,English
+spk00307,Female,31 - 45,"Hispanic, Latino, or Spanish",Both half and half but probably English
+spk00308,Male,31 - 45,Black or African American,French
+spk00309,Male,46 - 65,"Hispanic, Latino or Spanish",English
+spk00310,Male,31 - 45,White,English
+spk00311,Male,23 - 30,Black or African American,English
+spk00312,Female,23 - 30,"Hispanic, Latino, or Spanish",English
+spk00313,Female,31 - 45,White,English
+spk00314,Female,46 - 65,"Hispanic, Latino, or Spanish",Spanish
+spk00315,Female,31 - 45,"Hispanic, Latino, or Spanish",English
+spk00316,Male,31 - 45,"Hispanic, Latino, or Spanish",Spanish
+spk00317,Female,31 - 45,"Hispanic, Latino, or Spanish",Spanish
+spk00318,Female,31 - 45,"Hispanic, Latino, or Spanish",Portuguese
+spk00319,Female,23 - 30,White,English
+spk00320,Female,31 - 45,"Hispanic, Latino, or Spanish",English
+spk00321,Female,31 - 45,South Asian,Hindi
+spk00322,Female,46 - 65,White,English
+spk00323,Male,31 - 45,"West Asian (Middle Eastern, North African etc.)",Pashto
+spk00324,Male,46 - 65,Black or African American,English
+spk00325,Female,46 - 65,"West Asian (Middle Eastern, North African etc.)",Farsi
+spk00326,Male,31 - 45,"West Asian (Middle Eastern, North African etc.)",English
+spk00327,Male,31 - 45,East Asian,English
+spk00328,Female,18 - 22,Black or African American,French
+spk00329,Female,31 - 45,"West Asian (Middle Eastern, North African etc.)",English
+spk00330,Female,31 - 45,"Hispanic, Latino, or Spanish",English
+spk00331,Male,31 - 45,East Asian,English
+spk00332,Female,31 - 45,White,English
+spk00333,Male,46 - 65,Native Hawaiian or Other Pacific Islander,English
+spk00334,Male,31 - 45,White,English
+spk00335,Male,46 - 65,White,English
+spk00336,Female,31 - 45,White,English
+spk00337,Female,46 - 65,South Asian,English
+spk00338,Female,31 - 45,"Hispanic, Latino, or Spanish",English
+spk00339,Male,46 - 65,Black or African American,English
+spk00340,Female,31 - 45,Other,English
+spk00341,Female,31 - 45,Southeast Asian,English
+spk00342,Female,18 - 45,White,English
+spk00343,Female,23 - 30,"Indigenous (Native American, American Indian, Alaska Native etc)",English
+spk00344,Female,31 - 45,Black or African American,English
+spk00345,Male,18 - 22,"Hispanic, Latino, or Spanish",English(en-US)
+spk00346,Female,31 - 45,"Hispanic, Latino, or Spanish",English
+spk00347,Female,31 - 45,"Hispanic, Latino, or Spanish",English
+spk00348,Female,31 - 45,"Hispanic, Latino, or Spanish",English
+spk00349,Male,46 - 65,Black or African American,English
+spk00350,Female,46 - 65,South Asian,Mandarin
+spk00351,Male,46 - 65,"Hispanic, Latino, or Spanish",Spanish
+spk00352,Female,31 - 45,"Hispanic, Latino, or Spanish",Portuguese
+spk00353,Female,46 - 65,White,English
+spk00354,Female,23 - 30,"Hispanic, Latino, or Spanish",Spanish
+spk00355,Male,18 - 45,White,English
+spk00356,Female,46 - 65,Southeast Asian,English
+spk00357,Male,18 - 22,White,English
+spk00358,Female,46 - 65,Black or African American,Igbo
+spk00359,Female,66+,Black or African American,English
+spk00360,Female,23 - 30,"Hispanic, Latino, or Spanish",Spanish
+spk00361,Female,31 - 45,"Hispanic, Latino, or Spanish",Spanish
+spk00362,Female,46 - 65,"Hispanic, Latino, or Spanish",English
+spk00363,Female,23 - 30,Southeast Asian,English
+spk00364,Female,46 - 65,Black or African American,English
+spk00365,Female,31 - 45,East Asian,English
+spk00366,Female,46 - 65,Black or African American,English
+spk00367,Female,46 - 65,White,French
+spk00368,Female,31 - 45,Southeast Asian,English
+spk00369,Female,46 - 65,White,English
+spk00370,Female,31 - 45,Southeast Asian,"English, Tagalog"
+spk00371,Female,46 - 65,East Asian,Korean
+spk00372,Female,31 - 45,"Hispanic, Latino, or Spanish",English and Spanish
+spk00373,Female,66+,Black or African American,English
+spk00374,Male,23 - 30,"West Asian (Middle Eastern, North African etc.)",Armenian
+spk00375,Female,18 - 22,South Asian,Punjabi
+spk00376,Male,23 - 30,"Hispanic, Latino, or Spanish",English
+spk00377,Male,46 - 65,"Indigenous (Native American, American Indian, Alaska Native etc)",English
+spk00378,Female,31 - 45,"Hispanic, Latino, or Spanish",English
+spk00379,Female,18 - 45,Black or African American,English
+spk00380,Male,31 - 45,White,English
+spk00381,Male,23 - 30,Black or African American,English
+spk00382,Male,31 - 45,Black or African American,English
+spk00383,Female,31 - 45,White,English
+spk00384,Female,31 - 45,"Hispanic, Latino, or Spanish",English
+spk00385,Male,46 - 65,East Asian,Mandarin
+spk00386,Female,31 - 45,"West Asian (Middle Eastern, North African etc.)",English
+spk00387,Female,31 - 45,Black or African American,Swahili
+spk00388,Male,31 - 45,"Indigenous (Native American, American Indian, Alaska Native etc)",English
+spk00389,Male,31 - 45,East Asian,English
+spk00390,Male,31 - 45,Black or African American,English
+spk00391,Female,23 - 30,White,English
+spk00392,Male,31 - 45,White,English
+spk00393,Male,31 - 45,White,English
+spk00394,Male,31 - 45,"West Asian (Middle Eastern, North African etc.)",English
+spk00395,Male,23 - 30,"West Asian (Middle Eastern, North African etc.)",Arabic
+spk00396,Male,31 - 45,"Hispanic, Latino, or Spanish",English
+spk00397,Male,31 - 45,"Indigenous (Native American, American Indian, Alaska Native etc)",English
+spk00398,Female,46 - 65,Black or African American,English
+spk00399,Female,23 - 30,Black or African American,English
+spk00400,Female,18 - 22,East Asian,English
+spk00401,Male,23 - 30,Black or African American,English
+spk00402,Male,23 - 30,Black or African American,English
+spk00403,Male,66+,White,English
+spk00404,Male,23 - 30,Black or African American,English
+spk00405,Female,31 - 45,Black or African American,Patois and english
+spk00406,Female,46 - 65,White,Dutch
+spk00407,Female,23 - 30,Black or African American,English
+spk00408,Male,23 - 30,"Hispanic, Latino, or Spanish",English
+spk00409,Female,31 - 45,"Hispanic, Latino, or Spanish",Portuguese
+spk00410,Male,46 - 65,White,English
+spk00411,Male,31 - 45,South Asian,English
+spk00412,Female,23 - 30,White,English
+spk00413,Male,46 - 65,White,English
+spk00414,Female,31 - 45,White,Portuguese
+spk00415,Male,23 - 30,Black or African American,English
+spk00416,Female,23 - 30,"West Asian (Middle Eastern, North African etc.)",Igbo
+spk00417,Female,46 - 65,Other,English
+spk00418,Male,23 - 30,"Hispanic, Latino, or Spanish",English
+spk00419,Male,31 - 45,Black or African American,English
+spk00420,Female,46 - 65,White,English
+spk00421,Female,46 - 65,"Hispanic, Latino, or Spanish",English
+spk00422,Male,18 - 22,"Hispanic, Latino, or Spanish",Spanish
+spk00423,Female,31 - 45,South Asian,"Telugu , English"
+spk00424,Female,31 - 45,Black or African American,English
+spk00425,Male,46 - 65,White,Russian
+spk00426,Male,31 - 45,Black or African American,Swahili
+spk00427,Male,46 - 65,"Hispanic, Latino, or Spanish",Spanish
+spk00428,Female,23 - 30,East Asian,Mandarin
+spk00429,Male,31 - 45,Southeast Asian,English
+spk00430,Female,31 - 45,"Indigenous (Native American, American Indian, Alaska Native etc)",English
+spk00431,Female,31 - 45,East Asian,English
+spk00432,Female,31 - 45,"Hispanic, Latino, or Spanish",English
+spk00433,Female,31 - 45,Black or African American,English
+spk00434,Female,31 - 45,"Hispanic, Latino, or Spanish",Spanish
+spk00435,Female,31 - 45,South Asian,Tamil
+spk00436,Female,23 - 30,Southeast Asian,English
+spk00437,Male,46 - 65,White,English
+spk00438,Male,23 - 30,South Asian,English
+spk00439,Female,23 - 30,Black or African American,English
+spk00440,Female,46 - 65,"Hispanic, Latino, or Spanish",English
+spk00441,Male,31 - 45,"Hispanic, Latino, or Spanish",English
+spk00442,Male,31 - 45,White,Persian
+spk00443,Male,31 - 45,Black or African American,English
+spk00444,Female,46 - 65,Black or African American,English
+spk00445,Female,31 - 45,"West Asian (Middle Eastern, North African etc.)",Arabic
+spk00446,Female,18 - 22,Black or African American,English
+spk00447,Female,46 - 65,"Hispanic, Latino, or Spanish",English
+spk00448,Male,46 - 65,Native Hawaiian or Other Pacific Islander,English
+spk00449,Female,46 - 65,"Hispanic, Latino, or Spanish",English
+spk00450,Female,31 - 45,South Asian,Telugu
+spk00451,Female,31 - 45,"Indigenous (Native American, American Indian, Alaska Native etc)",English
+spk00452,Female,31 - 45,"West Asian (Middle Eastern, North African etc.)",English
+spk00453,Female,23 - 30,"West Asian (Middle Eastern, North African etc.)",English
+spk00454,Male,46 - 65,"Indigenous (Native American, American Indian, Alaska Native etc)",English
+spk00455,Male,23 - 30,White,English
+spk00456,Female,31 - 45,White,English
+spk00457,Male,23 - 30,"West Asian (Middle Eastern, North African etc.)",English
+spk00458,Male,31 - 45,East Asian,English
+spk00459,Male,23 - 30,Black or African American,English
+spk00460,Male,31 - 45,White,Romania
+spk00461,Female,31 - 45,East Asian,English
+spk00462,Male,18 - 22,Black or African American,English
+spk00463,Female,31 - 45,"Hispanic, Latino, or Spanish",English
+spk00464,Female,23 - 30,"Hispanic, Latino, or Spanish",English
+spk00465,Female,31 - 45,White,"Russian, English"
+spk00466,Female,46 - 65,White,English
+spk00467,Female,31 - 45,"Hispanic, Latino, or Spanish",English
+spk00468,Female,46 - 65,"West Asian (Middle Eastern, North African etc.)",English
+spk00469,Female,46 - 65,White,English
+spk00470,Female,46 - 65,White,English
+spk00471,Female,31 - 45,Black or African American,English
+spk00472,Female,31 - 45,"Hispanic, Latino, or Spanish",English
+spk00473,Female,31 - 45,White,Bosnian/english
+spk00474,Female,46 - 65,"Hispanic, Latino, or Spanish",English
+spk00475,Male,18 - 22,"West Asian (Middle Eastern, North African etc.)",Arabic
+spk00476,Female,31 - 45,"Hispanic, Latino, or Spanish",English
+spk00477,Female,46 - 65,White,English
+spk00478,Male,31 - 45,Native Hawaiian or Other Pacific Islander,English
+spk00479,Male,46 - 65,White,English
+spk00480,Male,23 - 30,White,English
+spk00481,Male,31 - 45,East Asian,Japanese
+spk00482,Female,31 - 45,White,Spanish
+spk00483,Male,46 - 65,White,Russian
+spk00484,Female,31 - 45,South Asian,English
+spk00485,Male,46 - 65,"Hispanic, Latino, or Spanish",English
+spk00486,Female,23 - 30,East Asian,Mandarin
+spk00487,Female,31 - 45,"Hispanic, Latino, or Spanish",Spanish
+spk00488,Female,23 - 30,"Indigenous (Native American, American Indian, Alaska Native etc)",English
+spk00489,Female,31 - 45,South Asian,English
+spk00490,Female,46 - 65,East Asian,English
+spk00491,Male,23 - 30,White,English
+spk00492,Female,23 - 30,Black or African American,Yoruba
+spk00493,Female,31 - 45,"Hispanic, Latino or Spanish",English
+spk00494,Female,23 - 30,White,Russian I
+spk00495,Non-Binary,23 - 30,Black or African American,English
+spk00496,Male,23 - 30,"Hispanic, Latino or Spanish",Spanish
+spk00497,Male,31 - 45,White,English
+spk00498,Male,31 - 45,"Hispanic, Latino, or Spanish",Spanish
+spk00499,Female,23 - 30,East Asian,English
+spk00500,Female,31 - 45,South Asian,Telugu English
+spk00501,Female,31 - 45,East Asian,English
+spk00502,Male,18 - 22,Black or African American,English
+spk00503,Female,46 - 65,White,Italian
+spk00504,Male,23 - 30,East Asian,Chinese mandarin
+spk00505,Male,46 - 65,White,English
+spk00506,Male,23 - 30,"West Asian (Middle Eastern, North African etc.)",Arabic
+spk00507,Female,31 - 45,White,Russian
+spk00508,Male,31 - 45,Black or African American,English
+spk00509,Female,31 - 45,"West Asian (Middle Eastern, North African etc.)",Arabic
+spk00510,Female,31 - 45,White,Ukrainian
+spk00511,Male,18 - 22,"West Asian (Middle Eastern, North African etc.)",Dari
+spk00512,Female,31 - 45,"Hispanic, Latino, or Spanish",Portuguese
+spk00513,Female,31 - 45,East Asian,English
+spk00514,Male,46 - 65,Black or African American,English
+spk00515,Male,31 - 45,Black or African American,Swahili
+spk00516,Male,18 - 22,Black or African American,English
+spk00517,Male,23 - 30,Black or African American,English
+spk00518,Female,31 - 45,Black or African American,English
+spk00519,Male,23 - 30,Black or African American,Yoruba
+spk00520,Female,31 - 45,White,English
+spk00521,Female,23 - 30,White,English
+spk00522,Male,46 - 65,South Asian,English
+spk00523,Female,23 - 30,Black or African American,Creole and English
+spk00524,Male,23 - 30,Black or African American,English
+spk00525,Female,31 - 45,"Indigenous (Native American, American Indian, Alaska Native etc)",English
+spk00526,Female,46 - 65,East Asian,English
+spk00527,Male,46 - 65,Black or African American,Shona
+spk00528,Male,31 - 45,South Asian,English
+spk00529,Female,46 - 65,East Asian,English
+spk00530,Female,46 - 65,White,English
+spk00531,Female,18 - 22,Southeast Asian,English
+spk00532,Female,46 - 65,Native Hawaiian or Other Pacific Islander,English
+spk00533,Female,18 - 22,"West Asian (Middle Eastern, North African etc.)",Arabic
+spk00534,Male,18 - 22,"Hispanic, Latino, or Spanish",Spanish
+spk00535,Female,46 - 65,"Indigenous (Native American, American Indian, Alaska Native etc)",English
+spk00536,Male,23 - 30,"Hispanic, Latino, or Spanish",English
+spk00537,Male,31 - 45,White,English
+spk00538,Male,31 - 45,East Asian,English
+spk00539,Female,23 - 30,Southeast Asian,Chinese
+spk00540,Male,31 - 45,White,Portuguese
+spk00541,Male,18 - 22,White,English
+spk00542,Male,46 - 65,"Hispanic, Latino, or Spanish",English
+spk00543,Male,18 - 22,East Asian,Cantonese
+spk00544,Female,23 - 30,Black or African American,English
+spk00545,Male,31 - 45,Black or African American,English
+spk00546,Female,23 - 30,Black or African American,French and English
+spk00547,Male,31 - 45,White,Russian
+spk00548,Male,46 - 65,South Asian,English
+spk00549,Male,31 - 45,Black or African American,English
+spk00550,Male,31 - 45,Black or African American,English
+spk00551,Female,23 - 30,"Hispanic, Latino, or Spanish",English
+spk00552,Female,23 - 30,Black or African American,English
+spk00553,Male,31 - 45,South Asian,Hindi
+spk00554,Female,31 - 45,White,Spanish
+spk00555,Female,31 - 45,White,English
+spk00556,Male,46 - 65,South Asian,Nepali
+spk00557,Female,31 - 45,White,English/Russian
+spk00558,Male,46 - 65,"Hispanic, Latino, or Spanish",Spanish
+spk00559,Male,46 - 65,"Hispanic, Latino, or Spanish",Portuguese (Brazil)
+spk00560,Male,46 - 65,Black or African American,English
+spk00561,Male,31 - 45,Black or African American,English
+spk00562,Male,18 - 22,South Asian,English
+spk00563,Female,18 - 22,Black or African American,English
+spk00564,Female,31 - 45,White,French
+spk00565,Female,23 - 30,"West Asian (Middle Eastern, North African etc.)",Arabic
+spk00566,Female,31 - 45,White,Spanish
+spk00567,Female,46 - 65,"Hispanic, Latino, or Spanish",English
+spk00568,Female,23 - 30,White,Spanish
+spk00569,Female,31 - 45,"Indigenous (Native American, American Indian, Alaska Native etc)",English
+spk00570,Non-Binary,31 - 45,Black or African American,Yoruba
+spk00571,Male,23 - 30,"Indigenous (Native American, American Indian, Alaska Native etc)",English
+spk00572,Male,46 - 65,"Hispanic, Latino, or Spanish",English
+spk00573,Male,31 - 45,White,English
+spk00574,Female,23 - 30,Southeast Asian,English
+spk00575,Male,31 - 45,"Hispanic, Latino, or Spanish",Spanish
+spk00576,Female,31 - 45,White,French
+spk00577,Female,46 - 65,White,Ukrainian
+spk00578,Female,46 - 65,Black or African American,English
+spk00579,Female,31 - 45,White,English
+spk00580,Female,23 - 30,White,"English, Ukrainian"
+spk00581,Female,46 - 65,"West Asian (Middle Eastern, North African etc.)",English
+spk00582,Female,31 - 45,White,English
+spk00583,Male,46 - 65,White,English
+spk00584,Female,31 - 45,White,English
+spk00585,Female,31 - 45,South Asian,English and Urdu
+spk00586,Female,23 - 30,"West Asian (Middle Eastern, North African etc.)",English
+spk00587,Male,31 - 45,"West Asian (Middle Eastern, North African etc.)",Arabic
+spk00588,Female,23 - 30,"West Asian (Middle Eastern, North African etc.)",English
+spk00589,Female,18 - 22,Southeast Asian,Vietnamese
+spk00590,Male,31 - 45,"Hispanic, Latino, or Spanish",English
+spk00591,Male,46 - 65,Black or African American,English
+spk00592,Male,31 - 45,South Asian,English
+spk00593,Male,18 - 22,Native Hawaiian or Other Pacific Islander,English
+spk00594,Female,31 - 45,White,English
+spk00595,Male,31 - 45,White,Arabic
+spk00596,Female,31 - 45,"Hispanic, Latino, or Spanish",Spanish
+spk00597,Female,18 - 22,South Asian,Tamil
+spk00598,Male,46 - 65,White,English
+spk00599,Female,18 - 22,Black or African American,"Haitian Creole, English"
+spk00600,Female,31 - 45,"Hispanic, Latino, or Spanish",Spanish
+spk00601,Female,18 - 22,Black or African American,English
+spk00602,Female,18 - 22,South Asian,English
+spk00603,Female,18 - 22,South Asian,Gujarati
+spk00604,Male,46 - 65,South Asian,Nepali
+spk00605,Male,31 - 45,"Indigenous (Native American, American Indian, Alaska Native etc)",English
+spk00606,Female,23 - 30,"Hispanic, Latino, or Spanish",Spanish
+spk00607,Female,23 - 30,Black or African American,English
+spk00608,Female,31 - 45,South Asian,Hindi
+spk00609,Female,46 - 65,Black or African American,English
+spk00610,Female,18 - 22,White,Russian
+spk00611,Female,31 - 45,Black or African American,English
+spk00612,Male,46 - 65,White,English
+spk00613,Female,31 - 45,White,English
+spk00614,Female,31 - 45,White,Russian
+spk00615,Male,23 - 30,Black or African American,Swahili
+spk00616,Female,31 - 45,"Hispanic, Latino, or Spanish",Portuguese
+spk00617,Female,31 - 45,South Asian,"Hindi, English"
+spk00618,Female,23 - 30,South Asian,Pashto
+spk00619,Female,23 - 30,Black or African American,English
+spk00620,Male,18 - 22,"West Asian (Middle Eastern, North African etc.)",English
+spk00621,Female,46 - 65,White,Finnish
+spk00622,Female,23 - 30,"Hispanic, Latino, or Spanish",Spanish
+spk00623,Male,46 - 65,Black or African American,Igala and English
+spk00624,Female,31 - 45,Black or African American,French
+spk00625,Male,31 - 45,Black or African American,"Lingala, French  and English"
+spk00626,Female,23 - 30,Black or African American,Swahili
+spk00627,Male,31 - 45,"Hispanic, Latino, or Spanish",Spanish
+spk00628,Male,23 - 30,Black or African American,English
+spk00629,Male,46 - 65,"West Asian (Middle Eastern, North African etc.)",English
+spk00630,Female,31 - 45,Southeast Asian,English
+spk00631,Female,46 - 65,East Asian,Japanese
+spk00632,Female,46 - 65,"Hispanic, Latino, or Spanish",English
+spk00633,Female,46 - 65,Black or African American,Swahili
+spk00634,Female,23 - 30,Black or African American,English
+spk00635,Female,31 - 45,"Hispanic, Latino, or Spanish",Spanish
+spk00636,Female,31 - 45,White,English
+spk00637,Female,31 - 45,"Hispanic, Latino, or Spanish",English
+spk00638,Male,46 - 65,White,English
+spk00639,Male,31 - 45,Black or African American,English and Spanish equally
+spk00640,Male,46 - 65,White,English
+spk00641,Male,31 - 45,Black or African American,English
+spk00642,Female,46 - 65,Black or African American,English
+spk00643,Female,31 - 45,"Hispanic, Latino, or Spanish",English
+spk00644,Female,31 - 45,"Hispanic, Latino, or Spanish",English
+spk00645,Female,31 - 45,"Hispanic, Latino, or Spanish",English
+spk00646,Female,46 - 65,Black or African American,English
+spk00647,Male,46 - 65,White,English
+spk00648,Non-Binary,46 - 65,White,English
+spk00649,Male,46 - 65,White,English
+spk00650,Female,31 - 45,White,English
+spk00651,Female,46 - 65,"Hispanic, Latino, or Spanish",English
+spk00652,Male,46 - 65,White,English
+spk00653,Female,66+,White,English
+spk00654,Male,31 - 45,Black or African American,English
+spk00655,Female,31 - 45,"Hispanic, Latino, or Spanish",English
+spk00656,Female,46 - 65,White,English
+spk00657,Female,31 - 45,"Hispanic, Latino, or Spanish",Spanish
+spk00658,Female,31 - 45,Other,English
+spk00659,Male,46 - 65,East Asian,Korean
+spk00660,Female,31 - 45,Black or African American,English
+spk00661,Female,31 - 45,Black or African American,English
+spk00662,Male,23 - 30,"Hispanic, Latino, or Spanish",Spanish
+spk00663,Female,31 - 45,White,English
+spk00664,Female,46 - 65,Black or African American,English
+spk00665,Female,31 - 45,"Indigenous (Native American, American Indian, Alaska Native etc)",English
+spk00666,Female,46 - 65,White,English
+spk00667,Female,46 - 65,"West Asian (Middle Eastern, North African etc.)",Arabic
+spk00668,Female,46 - 65,"Hispanic, Latino, or Spanish",English
+spk00669,Female,46 - 65,Black or African American,English
+spk00670,Female,31 - 45,Black or African American,English
+spk00671,Male,31 - 45,Southeast Asian,English
+spk00672,Male,46 - 65,White,English
+spk00673,Male,46 - 65,White,English
+spk00674,Male,46 - 65,White,English
+spk00675,Male,31 - 45,East Asian,Korean
+spk00676,Female,46 - 65,White,English
+spk00677,Female,46 - 65,"Hispanic, Latino, or Spanish",English
+spk00678,Female,23 - 30,"Hispanic, Latino, or Spanish",English and spanish equally
+spk00679,Female,46 - 65,White,Finnish
+spk00680,Female,46 - 65,"Indigenous (Native American, American Indian, Alaska Native etc)",English
+spk00681,Male,46 - 65,"Indigenous (Native American, American Indian, Alaska Native etc)",English
+spk00682,Male,31 - 45,"West Asian (Middle Eastern, North African etc.)",Arabic
+spk00683,Female,31 - 45,Black or African American,English
+spk00684,Male,46 - 65,White,English
+spk00685,Male,46 - 65,White,English
+spk00686,Male,46 - 65,White,English
+spk00687,Female,31 - 45,"West Asian (Middle Eastern, North African etc.)",English
+spk00688,Female,31 - 45,White,English
+spk00689,Female,31 - 45,South Asian,English
+spk00690,Female,31 - 45,Southeast Asian,English
+spk00691,Male,23 - 30,Black or African American,English
+spk00692,Male,46 - 65,Black or African American,English
+spk00693,Female,23 - 30,Southeast Asian,English
+spk00694,Female,46 - 65,"Hispanic, Latino, or Spanish",English
+spk00695,Male,46 - 65,White,English
+spk00696,Female,31 - 45,Black or African American,English
+spk00697,Female,23 - 30,"West Asian (Middle Eastern, North African etc.)",English
+spk00698,Male,46 - 65,Black or African American,English
+spk00699,Female,66+,White,English
+spk00700,Female,46 - 65,White,Spanish
+spk00701,Male,66+,White,English
+spk00702,Female,31 - 45,East Asian,English
+spk00703,Male,66+,White,English
+spk00704,Male,46 - 65,Black or African American,English
+spk00705,Female,46 - 65,White,English
+spk00706,Female,23 - 30,"Indigenous (Native American, American Indian, Alaska Native etc)",English
+spk00707,Female,66+,White,English
+spk00708,Female,31 - 45,"Hispanic, Latino, or Spanish",English
+spk00709,Female,23 - 30,"Hispanic, Latino, or Spanish",Spanish
+spk00710,Male,46 - 65,White,English
+spk00711,Female,31 - 45,Southeast Asian,English
+spk00712,Male,46 - 65,White,English
+spk00713,Female,31 - 45,"Hispanic, Latino, or Spanish",English
+spk00714,Female,31 - 45,Southeast Asian,Mandarin
+spk00715,Female,31 - 45,"Hispanic, Latino, or Spanish",English
+spk00716,Female,31 - 45,Southeast Asian,English
+spk00717,Female,23 - 30,White,English
+spk00718,Female,46 - 65,White,English
+spk00719,Female,46 - 65,"Hispanic, Latino, or Spanish",Spanish and English
+spk00720,Male,46 - 65,Black or African American,English
+spk00721,Female,31 - 45,"Hispanic, Latino, or Spanish",English
+spk00722,Male,66+,"Hispanic, Latino, or Spanish",Spanish
+spk00723,Female,23 - 30,Native Hawaiian or Other Pacific Islander,english
+spk00724,Male,31 - 45,"Hispanic, Latino, or Spanish",English
+spk00725,Female,46 - 65,"Hispanic, Latino, or Spanish",English
+spk00726,Female,46 - 65,White,English
+spk00727,Female,31 - 45,South Asian,Kannada
+spk00728,Female,46 - 65,Black or African American,English
+spk00729,Male,31 - 45,White,English
+spk00730,Female,46 - 65,"Hispanic, Latino, or Spanish",English
+spk00731,Female,46 - 65,South Asian,English
+spk00732,Female,31 - 45,Southeast Asian,English
+spk00733,Male,46 - 65,White,English
+spk00734,Female,23 - 30,"West Asian (Middle Eastern, North African etc.)","Arabic, English"
+spk00735,Female,23 - 30,"Indigenous (Native American, American Indian, Alaska Native etc)",English
+spk00736,Female,46 - 65,White,English
+spk00737,Male,23 - 30,"Hispanic, Latino, or Spanish",Spanish
+spk00738,Female,46 - 65,White,English
+spk00739,Male,31 - 45,Black or African American,English
+spk00740,Female,46 - 65,Black or African American,English
+spk00741,Female,31 - 45,South Asian,English and Hindi
+spk00742,Female,46 - 65,White,Russian
+spk00743,Male,31 - 45,East Asian,English
+spk00744,Female,31 - 45,"Hispanic, Latino, or Spanish",English
+spk00745,Male,31 - 45,"Hispanic, Latino, or Spanish",Spanish
+spk00746,Male,23 - 30,Black or African American,Igbo
+spk00747,Female,46 - 65,"Hispanic, Latino, or Spanish",English
+spk00748,Female,23 - 30,Black or African American,Spanish
+spk00749,Female,31 - 45,White,English
+spk00750,Female,46 - 65,White,English
+spk00751,Male,46 - 65,Black or African American,English
+spk00752,Female,31 - 45,East Asian,English
+spk00753,Female,18 - 22,East Asian,English
+spk00754,Female,46 - 65,"Hispanic, Latino, or Spanish",English
+spk00755,Female,23 - 30,White,English
+spk00756,Female,46 - 65,Southeast Asian,Dutch
+spk00757,Female,23 - 30,White,English
+spk00758,Female,31 - 45,White,English
+spk00759,Female,31 - 45,"West Asian (Middle Eastern, North African etc.)",English
+spk00760,Female,31 - 45,South Asian,Sourashtra
+spk00761,Male,31 - 45,Black or African American,English
+spk00762,Female,46 - 65,White,English
+spk00763,Female,46 - 65,"Hispanic, Latino or Spanish",Spanish
+spk00764,Male,31 - 45,"Hispanic, Latino, or Spanish",Spanish
+spk00765,Male,31 - 45,"Indigenous (Native American, American Indian, Alaska Native etc)",English
+spk00766,Male,46 - 65,White,English
+spk00767,Male,46 - 65,East Asian,English
+spk00768,Female,46 - 65,Black or African American,English
+spk00769,Female,46 - 65,East Asian,English
+spk00770,Female,31 - 45,Black or African American,English
+spk00771,Female,46 - 65,Black or African American,Swahili
+spk00772,Male,46 - 65,White,English
+spk00773,Female,46 - 65,Southeast Asian,English
+spk00774,Female,31 - 45,"Hispanic, Latino, or Spanish",English
+spk00775,Male,31 - 45,Black or African American,English
+spk00776,Female,46 - 65,"Hispanic, Latino or Spanish",Spanish
+spk00777,Male,18 - 22,South Asian,Urdu
+spk00778,Female,31 - 45,"West Asian (Middle Eastern, North African etc.)",English
+spk00779,Female,46 - 65,Black or African American,English
+spk00780,Male,31 - 45,"Hispanic, Latino, or Spanish",English
+spk00781,Male,23 - 30,"Hispanic, Latino, or Spanish",English
+spk00782,Male,46 - 65,East Asian,English
+spk00783,Female,46 - 65,Black or African American,English
+spk00784,Female,23 - 30,"Hispanic, Latino, or Spanish",Spanish
+spk00785,Male,46 - 65,White,English
+spk00786,Male,46 - 65,"Hispanic, Latino, or Spanish",English
+spk00787,Male,31 - 45,White,English
+spk00788,Male,46 - 65,"Hispanic, Latino, or Spanish",Spanish
+spk00789,Female,31 - 45,"Hispanic, Latino, or Spanish",English
+spk00790,Female,31 - 45,"Hispanic, Latino, or Spanish",English
+spk00791,Male,31 - 45,"Hispanic, Latino, or Spanish",English
+spk00792,Male,31 - 45,Southeast Asian,Hmong
+spk00793,Female,31 - 45,"Hispanic, Latino, or Spanish",Both
+spk00794,Male,46 - 65,East Asian,Chinese
+spk00795,Female,31 - 45,"Hispanic, Latino, or Spanish",English
+spk00796,Female,31 - 45,South Asian,Tamil
+spk00797,Female,46 - 65,"Hispanic, Latino or Spanish",English
+spk00798,Male,46 - 65,White,English
+spk00799,Male,31 - 45,"Hispanic, Latino, or Spanish",Spanish
+spk00800,Female,46 - 65,White,English
+spk00801,Male,31 - 45,"Hispanic, Latino, or Spanish",English
+spk00802,Female,46 - 65,Black or African American,English
+spk00803,Male,31 - 45,South Asian,English
+spk00804,Female,46 - 65,White,English
+spk00805,Female,66+,White,English
+spk00806,Male,46 - 65,White,English
+spk00807,Male,31 - 45,White,English
+spk00808,Female,46 - 65,Black or African American,English
+spk00809,Male,23 - 30,Black or African American,English and Mabaan
+spk00810,Female,46 - 65,White,English
+spk00811,Female,46 - 65,White,English
+spk00812,Female,31 - 45,"Indigenous (Native American, American Indian, Alaska Native etc)",English
+spk00813,Female,46 - 65,"Indigenous (Native American, American Indian, Alaska Native etc)",English
+spk00814,Male,46 - 65,White,English
+spk00815,Female,46 - 65,"Hispanic, Latino, or Spanish",Spanish
+spk00816,Female,31 - 45,Southeast Asian,English/Tamil
+spk00817,Female,46 - 65,"Hispanic, Latino, or Spanish",English
+spk00818,Female,46 - 65,White,English
+spk00819,Female,23 - 30,"Indigenous (Native American, American Indian, Alaska Native etc)",English
+spk00820,Male,46 - 65,White,English
+spk00821,Female,46 - 65,White,English
+spk00822,Female,23 - 30,"Indigenous (Native American, American Indian, Alaska Native etc)",English
+spk00823,Female,46 - 65,Southeast Asian,English
+spk00824,Female,46 - 65,Black or African American,English
+spk00825,Male,46 - 65,"West Asian (Middle Eastern, North African etc.)",Arabic
+spk00826,Male,46 - 65,White,English
+spk00827,Female,31 - 45,"West Asian (Middle Eastern, North African etc.)",English
+spk00828,Female,46 - 65,"Hispanic, Latino, or Spanish",Englis
+spk00829,Female,31 - 45,White,English
+spk00830,Female,31 - 45,Southeast Asian,English
+spk00831,Male,31 - 45,"Hispanic, Latino, or Spanish",English
+spk00832,Female,23 - 30,"Hispanic, Latino, or Spanish",English
+spk00833,Female,46 - 65,White,English
+spk00834,Male,31 - 45,White,English
+spk00835,Male,31 - 45,"Indigenous (Native American, American Indian, Alaska Native etc)",English
+spk00836,Male,31 - 45,Black or African American,English
+spk00837,Male,31 - 45,East Asian,English
+spk00838,Male,31 - 45,South Asian,English
+spk00839,Female,46 - 65,White,English
+spk00840,Male,46 - 65,White,English
+spk00841,Female,18 - 45,White,English
+spk00842,Male,46 - 65,White,English
+spk00843,Female,31 - 45,"Hispanic, Latino, or Spanish",English

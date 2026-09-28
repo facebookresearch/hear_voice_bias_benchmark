@@ -1,0 +1,919 @@
+{
+  "repo": "facebookresearch/hear_voice_bias_benchmark",
+  "tag": "v1.0",
+  "audio_format": "flac",
+  "sampling_rate": 16000,
+  "configs": {
+    "bbq": {
+      "num_shards": 50,
+      "num_rows": 39334,
+      "total_bytes": 6946081769
+    },
+    "openqa": {
+      "num_shards": 62,
+      "num_rows": 48319,
+      "total_bytes": 6914875399
+    }
+  },
+  "num_shards": 112,
+  "num_rows": 87653,
+  "total_bytes": 13860957168,
+  "assets": [
+    {
+      "config": "bbq",
+      "name": "bbq-train-00000-of-00050.parquet",
+      "path": "data/bbq/train-00000-of-00050.parquet",
+      "size_bytes": 177615506,
+      "sha256": "27aa805f2778e1a6a418db5e43d0091123c0779832556efee60fb91defb5762c",
+      "num_rows": 800
+    },
+    {
+      "config": "bbq",
+      "name": "bbq-train-00001-of-00050.parquet",
+      "path": "data/bbq/train-00001-of-00050.parquet",
+      "size_bytes": 128011996,
+      "sha256": "70c2db12f4b235dbe93a61ef18661752970d19af4d3072cee2e150780e6eea33",
+      "num_rows": 800
+    },
+    {
+      "config": "bbq",
+      "name": "bbq-train-00002-of-00050.parquet",
+      "path": "data/bbq/train-00002-of-00050.parquet",
+      "size_bytes": 157513826,
+      "sha256": "d767257b554dfa55535a9d35e2b0becfab0cff071b99417b5962e7e525f363e1",
+      "num_rows": 800
+    },
+    {
+      "config": "bbq",
+      "name": "bbq-train-00003-of-00050.parquet",
+      "path": "data/bbq/train-00003-of-00050.parquet",
+      "size_bytes": 132754428,
+      "sha256": "87f7ce7b5b1091928d789108376a98fa8ae7674816f29e1078824ee97ee52635",
+      "num_rows": 800
+    },
+    {
+      "config": "bbq",
+      "name": "bbq-train-00004-of-00050.parquet",
+      "path": "data/bbq/train-00004-of-00050.parquet",
+      "size_bytes": 187038526,
+      "sha256": "2d4f64fe328cc4c1af4aae40270a6f3178f8955697f88ee708817a4acf1b0d34",
+      "num_rows": 800
+    },
+    {
+      "config": "bbq",
+      "name": "bbq-train-00005-of-00050.parquet",
+      "path": "data/bbq/train-00005-of-00050.parquet",
+      "size_bytes": 150719551,
+      "sha256": "4feb2689cb65d251abdddc918dd0a658016db781147e0a64d3da7066b8ac1d3d",
+      "num_rows": 800
+    },
+    {
+      "config": "bbq",
+      "name": "bbq-train-00006-of-00050.parquet",
+      "path": "data/bbq/train-00006-of-00050.parquet",
+      "size_bytes": 146557101,
+      "sha256": "a6ad1f4ae729eefddbde91861c1004002bb97e61ae55a8f96577a62c2618086f",
+      "num_rows": 800
+    },
+    {
+      "config": "bbq",
+      "name": "bbq-train-00007-of-00050.parquet",
+      "path": "data/bbq/train-00007-of-00050.parquet",
+      "size_bytes": 137140333,
+      "sha256": "c7d876ea2714c2aee39e72d0177c62a86073f8bc9adbf5e462fcf8e82adcd7be",
+      "num_rows": 800
+    },
+    {
+      "config": "bbq",
+      "name": "bbq-train-00008-of-00050.parquet",
+      "path": "data/bbq/train-00008-of-00050.parquet",
+      "size_bytes": 126331989,
+      "sha256": "4edfdc9816fb0d10a24dbbf224764dd62b78242619b4706761af6398a02ed2f9",
+      "num_rows": 800
+    },
+    {
+      "config": "bbq",
+      "name": "bbq-train-00009-of-00050.parquet",
+      "path": "data/bbq/train-00009-of-00050.parquet",
+      "size_bytes": 156215507,
+      "sha256": "f70172a236a9dd343b9f6ace2fa4fa942c56965eab533a9cf07d8f6693531b23",
+      "num_rows": 800
+    },
+    {
+      "config": "bbq",
+      "name": "bbq-train-00010-of-00050.parquet",
+      "path": "data/bbq/train-00010-of-00050.parquet",
+      "size_bytes": 162001129,
+      "sha256": "313806d1cc2b5bc182ac6ce10c057808a40140ff34f7b9777137754d0b3e3c9e",
+      "num_rows": 800
+    },
+    {
+      "config": "bbq",
+      "name": "bbq-train-00011-of-00050.parquet",
+      "path": "data/bbq/train-00011-of-00050.parquet",
+      "size_bytes": 130699976,
+      "sha256": "1b9329c45f75f3a0386ef5b3249ef910229f956fa67c4900b2e9de143e9d188d",
+      "num_rows": 800
+    },
+    {
+      "config": "bbq",
+      "name": "bbq-train-00012-of-00050.parquet",
+      "path": "data/bbq/train-00012-of-00050.parquet",
+      "size_bytes": 132772416,
+      "sha256": "c50943a1b449400c59153d63c309645c675db707307756f222a1309d009575d4",
+      "num_rows": 800
+    },
+    {
+      "config": "bbq",
+      "name": "bbq-train-00013-of-00050.parquet",
+      "path": "data/bbq/train-00013-of-00050.parquet",
+      "size_bytes": 156090623,
+      "sha256": "1b40946e77f0afda791cae6ff6c3a8676a89f9f0547e76f7fb6ae40f605af9eb",
+      "num_rows": 800
+    },
+    {
+      "config": "bbq",
+      "name": "bbq-train-00014-of-00050.parquet",
+      "path": "data/bbq/train-00014-of-00050.parquet",
+      "size_bytes": 129860549,
+      "sha256": "4904e8df8d7dde8af30083df5fb58ccaff7a1e289056e297037959bf6906db65",
+      "num_rows": 800
+    },
+    {
+      "config": "bbq",
+      "name": "bbq-train-00015-of-00050.parquet",
+      "path": "data/bbq/train-00015-of-00050.parquet",
+      "size_bytes": 128463256,
+      "sha256": "a8bdf46f8197816c50e0ad78dae80c1e61856a1a93f89ab4f74468dd14acc2ad",
+      "num_rows": 800
+    },
+    {
+      "config": "bbq",
+      "name": "bbq-train-00016-of-00050.parquet",
+      "path": "data/bbq/train-00016-of-00050.parquet",
+      "size_bytes": 121994969,
+      "sha256": "1c0050e6df720c8a3b5ad1aef0c6d456821710ac5d9e313cdce43c922569a5e9",
+      "num_rows": 800
+    },
+    {
+      "config": "bbq",
+      "name": "bbq-train-00017-of-00050.parquet",
+      "path": "data/bbq/train-00017-of-00050.parquet",
+      "size_bytes": 136164319,
+      "sha256": "c9fe8c0c575081da9d689eab05daecf712f9c3a591e6fb6dc09b57ae85b81322",
+      "num_rows": 800
+    },
+    {
+      "config": "bbq",
+      "name": "bbq-train-00018-of-00050.parquet",
+      "path": "data/bbq/train-00018-of-00050.parquet",
+      "size_bytes": 128363606,
+      "sha256": "04292c3f464e8873841dc2c132adf04d783f2fb237721544f4fb98bb7e1206e9",
+      "num_rows": 800
+    },
+    {
+      "config": "bbq",
+      "name": "bbq-train-00019-of-00050.parquet",
+      "path": "data/bbq/train-00019-of-00050.parquet",
+      "size_bytes": 163382710,
+      "sha256": "c07c65e2c4c074ffc9d58f992ebdfc6e847bdee5dd41d476ce6232b652732f19",
+      "num_rows": 800
+    },
+    {
+      "config": "bbq",
+      "name": "bbq-train-00020-of-00050.parquet",
+      "path": "data/bbq/train-00020-of-00050.parquet",
+      "size_bytes": 142690590,
+      "sha256": "fd73a1d23ed7ac796ecb4827c40b0440f40fed24996cad14afe884422853f79e",
+      "num_rows": 800
+    },
+    {
+      "config": "bbq",
+      "name": "bbq-train-00021-of-00050.parquet",
+      "path": "data/bbq/train-00021-of-00050.parquet",
+      "size_bytes": 137859068,
+      "sha256": "e7bedea070023e1964a4cac92e0f182e0b83eb3793f33b1abf21c0ecf891a305",
+      "num_rows": 800
+    },
+    {
+      "config": "bbq",
+      "name": "bbq-train-00022-of-00050.parquet",
+      "path": "data/bbq/train-00022-of-00050.parquet",
+      "size_bytes": 105878366,
+      "sha256": "0e557e6952fb985539a081835efa5036fe88a0ab018dd400545d9379de72ca2a",
+      "num_rows": 800
+    },
+    {
+      "config": "bbq",
+      "name": "bbq-train-00023-of-00050.parquet",
+      "path": "data/bbq/train-00023-of-00050.parquet",
+      "size_bytes": 137918169,
+      "sha256": "6d4e12df15341b6689eb7d94278b16ca09fe198a338f9c72eb9e7c91f7538c02",
+      "num_rows": 800
+    },
+    {
+      "config": "bbq",
+      "name": "bbq-train-00024-of-00050.parquet",
+      "path": "data/bbq/train-00024-of-00050.parquet",
+      "size_bytes": 145940431,
+      "sha256": "f5ae7910909e1a04988fb43904341b6fcabe77a8b7508ce145ecc6b52256346a",
+      "num_rows": 800
+    },
+    {
+      "config": "bbq",
+      "name": "bbq-train-00025-of-00050.parquet",
+      "path": "data/bbq/train-00025-of-00050.parquet",
+      "size_bytes": 127146042,
+      "sha256": "1e6cdaa1fe18180ad8c6ed6ad6ef9fd7addbd18f5ca1775c78a4c202853b2a6f",
+      "num_rows": 800
+    },
+    {
+      "config": "bbq",
+      "name": "bbq-train-00026-of-00050.parquet",
+      "path": "data/bbq/train-00026-of-00050.parquet",
+      "size_bytes": 136291784,
+      "sha256": "a16549e7088c064c5166e3f804d2216545730eebd888055bf8bd986ae1814ded",
+      "num_rows": 800
+    },
+    {
+      "config": "bbq",
+      "name": "bbq-train-00027-of-00050.parquet",
+      "path": "data/bbq/train-00027-of-00050.parquet",
+      "size_bytes": 149092062,
+      "sha256": "2a3984eb0d87142f8169d5ebfc6ce3d3fd12e52541c8b3abb808b09ec5c36eee",
+      "num_rows": 800
+    },
+    {
+      "config": "bbq",
+      "name": "bbq-train-00028-of-00050.parquet",
+      "path": "data/bbq/train-00028-of-00050.parquet",
+      "size_bytes": 132461898,
+      "sha256": "8c064b75df276a854544989ceab02c77c56b4dcbaac98cdc73d68ca52726f1b1",
+      "num_rows": 800
+    },
+    {
+      "config": "bbq",
+      "name": "bbq-train-00029-of-00050.parquet",
+      "path": "data/bbq/train-00029-of-00050.parquet",
+      "size_bytes": 150486116,
+      "sha256": "03a629f7cac35a91dc81629409b75ab33aa48aa36e53ef8ad04cead6ac653d54",
+      "num_rows": 800
+    },
+    {
+      "config": "bbq",
+      "name": "bbq-train-00030-of-00050.parquet",
+      "path": "data/bbq/train-00030-of-00050.parquet",
+      "size_bytes": 164398482,
+      "sha256": "99b69376ccd828a3006251e33e41b05f4e624efff1cfe6464474ba6c58b59c13",
+      "num_rows": 800
+    },
+    {
+      "config": "bbq",
+      "name": "bbq-train-00031-of-00050.parquet",
+      "path": "data/bbq/train-00031-of-00050.parquet",
+      "size_bytes": 157733056,
+      "sha256": "c9ea8fdecd3ab980a9b782b6771339c531aafc3c17757a1afc7fa9e42d2717be",
+      "num_rows": 800
+    },
+    {
+      "config": "bbq",
+      "name": "bbq-train-00032-of-00050.parquet",
+      "path": "data/bbq/train-00032-of-00050.parquet",
+      "size_bytes": 144699852,
+      "sha256": "638260390f3943aacdf6b131786faffcc93c54f28a0d55d8e266f03eee904939",
+      "num_rows": 800
+    },
+    {
+      "config": "bbq",
+      "name": "bbq-train-00033-of-00050.parquet",
+      "path": "data/bbq/train-00033-of-00050.parquet",
+      "size_bytes": 150485484,
+      "sha256": "4c3488c623ee86b186057f59cd183f569e9b7040d5992069ae0eea39d3741f1d",
+      "num_rows": 800
+    },
+    {
+      "config": "bbq",
+      "name": "bbq-train-00034-of-00050.parquet",
+      "path": "data/bbq/train-00034-of-00050.parquet",
+      "size_bytes": 133144724,
+      "sha256": "f89ce0a9ecded20858c899246ea298cbb9e55c91502a215bd38c11825f1e1018",
+      "num_rows": 800
+    },
+    {
+      "config": "bbq",
+      "name": "bbq-train-00035-of-00050.parquet",
+      "path": "data/bbq/train-00035-of-00050.parquet",
+      "size_bytes": 140189029,
+      "sha256": "c0427b7ba554c5abab1af8bc298ef93f7b979c8a7732cad31b450b80437f4f16",
+      "num_rows": 800
+    },
+    {
+      "config": "bbq",
+      "name": "bbq-train-00036-of-00050.parquet",
+      "path": "data/bbq/train-00036-of-00050.parquet",
+      "size_bytes": 104387800,
+      "sha256": "bfd756d02ee040ad0c9c452dda4417a921c420837d0cc8bcf58436d3341cab3d",
+      "num_rows": 800
+    },
+    {
+      "config": "bbq",
+      "name": "bbq-train-00037-of-00050.parquet",
+      "path": "data/bbq/train-00037-of-00050.parquet",
+      "size_bytes": 118605259,
+      "sha256": "559730f5c584cc76f92a232f02ca479cdba2d4c3a26182800c6b31b8a9db2aae",
+      "num_rows": 800
+    },
+    {
+      "config": "bbq",
+      "name": "bbq-train-00038-of-00050.parquet",
+      "path": "data/bbq/train-00038-of-00050.parquet",
+      "size_bytes": 140307114,
+      "sha256": "1c7b04be4ff2232ce09af642305a74cc5295a43d7432ba644d1c618b741ca330",
+      "num_rows": 800
+    },
+    {
+      "config": "bbq",
+      "name": "bbq-train-00039-of-00050.parquet",
+      "path": "data/bbq/train-00039-of-00050.parquet",
+      "size_bytes": 143156990,
+      "sha256": "6b8bc3851afe786892fcbb9f508c96f9d4ab90afbc3dda7cd37a4939b5a30a77",
+      "num_rows": 800
+    },
+    {
+      "config": "bbq",
+      "name": "bbq-train-00040-of-00050.parquet",
+      "path": "data/bbq/train-00040-of-00050.parquet",
+      "size_bytes": 131645620,
+      "sha256": "6ee58a369789b989d14a5b171b46759d032fd45a4e332d4b7b30ff0c867c9ca4",
+      "num_rows": 800
+    },
+    {
+      "config": "bbq",
+      "name": "bbq-train-00041-of-00050.parquet",
+      "path": "data/bbq/train-00041-of-00050.parquet",
+      "size_bytes": 150408501,
+      "sha256": "b2a395cfb4613b0973a736c2f84ca69bf7dc14cd683f8ebae121e382ca8d4a30",
+      "num_rows": 800
+    },
+    {
+      "config": "bbq",
+      "name": "bbq-train-00042-of-00050.parquet",
+      "path": "data/bbq/train-00042-of-00050.parquet",
+      "size_bytes": 134822551,
+      "sha256": "a92feee4a7e7e5e282594092a00334ba5f371cba6034cf3b6c65ffd3a8501c28",
+      "num_rows": 800
+    },
+    {
+      "config": "bbq",
+      "name": "bbq-train-00043-of-00050.parquet",
+      "path": "data/bbq/train-00043-of-00050.parquet",
+      "size_bytes": 156011206,
+      "sha256": "bc1383b1b5c4361c19cad3be0b6d552890fdc443c03d7498460b4c6414107346",
+      "num_rows": 800
+    },
+    {
+      "config": "bbq",
+      "name": "bbq-train-00044-of-00050.parquet",
+      "path": "data/bbq/train-00044-of-00050.parquet",
+      "size_bytes": 121331666,
+      "sha256": "118a9599b12b86250041860a85dfcb7b7b716755a8f8837cfc26fb6232276f89",
+      "num_rows": 800
+    },
+    {
+      "config": "bbq",
+      "name": "bbq-train-00045-of-00050.parquet",
+      "path": "data/bbq/train-00045-of-00050.parquet",
+      "size_bytes": 129095996,
+      "sha256": "91c17734c6f4c9f853360d3928ee878b1947d12396b3dfc3445e1014b9d38fe1",
+      "num_rows": 800
+    },
+    {
+      "config": "bbq",
+      "name": "bbq-train-00046-of-00050.parquet",
+      "path": "data/bbq/train-00046-of-00050.parquet",
+      "size_bytes": 128419661,
+      "sha256": "a4a7bfa900a4a378496278181cdff5062d0f392b589bf21ca18340b5dfd53bd5",
+      "num_rows": 800
+    },
+    {
+      "config": "bbq",
+      "name": "bbq-train-00047-of-00050.parquet",
+      "path": "data/bbq/train-00047-of-00050.parquet",
+      "size_bytes": 166126275,
+      "sha256": "3413084359ab0d00e1796aa67a32087af0db1c4568f812ff42da76a4e6f7e159",
+      "num_rows": 800
+    },
+    {
+      "config": "bbq",
+      "name": "bbq-train-00048-of-00050.parquet",
+      "path": "data/bbq/train-00048-of-00050.parquet",
+      "size_bytes": 149797328,
+      "sha256": "b08f57bce4b7c1469bf2b8de8bd526e6d3115223220315444d8e70498ad46b63",
+      "num_rows": 800
+    },
+    {
+      "config": "bbq",
+      "name": "bbq-train-00049-of-00050.parquet",
+      "path": "data/bbq/train-00049-of-00050.parquet",
+      "size_bytes": 25858333,
+      "sha256": "40e282cfc2fe16905124d3eff0633e3670bae4a926fd0a98be68a222dd7e967c",
+      "num_rows": 134
+    },
+    {
+      "config": "openqa",
+      "name": "openqa-train-00000-of-00062.parquet",
+      "path": "data/openqa/train-00000-of-00062.parquet",
+      "size_bytes": 67299828,
+      "sha256": "64486e5299f6f2a3f2357f7bafaca38a283df6bec5007004ed78a9c38d2d43b6",
+      "num_rows": 788
+    },
+    {
+      "config": "openqa",
+      "name": "openqa-train-00001-of-00062.parquet",
+      "path": "data/openqa/train-00001-of-00062.parquet",
+      "size_bytes": 96761796,
+      "sha256": "4afb3f8f3f3e1c8e1f58db3e50f9db091312c9db1e3a0c3354b87ebc72988557",
+      "num_rows": 788
+    },
+    {
+      "config": "openqa",
+      "name": "openqa-train-00002-of-00062.parquet",
+      "path": "data/openqa/train-00002-of-00062.parquet",
+      "size_bytes": 105173764,
+      "sha256": "f500ab3c68c0e30820f7142967d0276e4657ce222c35655acc402bfe4c136b92",
+      "num_rows": 790
+    },
+    {
+      "config": "openqa",
+      "name": "openqa-train-00003-of-00062.parquet",
+      "path": "data/openqa/train-00003-of-00062.parquet",
+      "size_bytes": 91547015,
+      "sha256": "49a4262d39aec05764eadae864f626036fc668bae7a1985a17399df948809e01",
+      "num_rows": 787
+    },
+    {
+      "config": "openqa",
+      "name": "openqa-train-00004-of-00062.parquet",
+      "path": "data/openqa/train-00004-of-00062.parquet",
+      "size_bytes": 75115275,
+      "sha256": "379e7a9269ae372e50ad7cf3ef0aecc013283f0f497adec6946cec99d2afb6d5",
+      "num_rows": 791
+    },
+    {
+      "config": "openqa",
+      "name": "openqa-train-00005-of-00062.parquet",
+      "path": "data/openqa/train-00005-of-00062.parquet",
+      "size_bytes": 104979912,
+      "sha256": "f036f4b077d3978431d53bb9912fb3de803564ba759cc54e0e18f3410124b79b",
+      "num_rows": 789
+    },
+    {
+      "config": "openqa",
+      "name": "openqa-train-00006-of-00062.parquet",
+      "path": "data/openqa/train-00006-of-00062.parquet",
+      "size_bytes": 100236620,
+      "sha256": "cbc005d0acc4fb502d13cb908d5027ba955c724414897fc5149a709b8b63c3ff",
+      "num_rows": 787
+    },
+    {
+      "config": "openqa",
+      "name": "openqa-train-00007-of-00062.parquet",
+      "path": "data/openqa/train-00007-of-00062.parquet",
+      "size_bytes": 106883987,
+      "sha256": "d34de97f07b1a7d2d23dba99b72f9c7884f5226f5cf1928649206313257875b1",
+      "num_rows": 788
+    },
+    {
+      "config": "openqa",
+      "name": "openqa-train-00008-of-00062.parquet",
+      "path": "data/openqa/train-00008-of-00062.parquet",
+      "size_bytes": 104349640,
+      "sha256": "d1b3cd2ffbef7693d581299e6a1b635e4b850c1585f23e87ecca47e4956ab11e",
+      "num_rows": 788
+    },
+    {
+      "config": "openqa",
+      "name": "openqa-train-00009-of-00062.parquet",
+      "path": "data/openqa/train-00009-of-00062.parquet",
+      "size_bytes": 84910780,
+      "sha256": "3caa4f946e3a744a73f00a03f474b520a4e8660009c922481759343571ca73c2",
+      "num_rows": 790
+    },
+    {
+      "config": "openqa",
+      "name": "openqa-train-00010-of-00062.parquet",
+      "path": "data/openqa/train-00010-of-00062.parquet",
+      "size_bytes": 71947557,
+      "sha256": "a033bd730d5802f568e19c0d19a2a0a775259daa92d6323c0583ac54a6f777a5",
+      "num_rows": 790
+    },
+    {
+      "config": "openqa",
+      "name": "openqa-train-00011-of-00062.parquet",
+      "path": "data/openqa/train-00011-of-00062.parquet",
+      "size_bytes": 86942475,
+      "sha256": "c36157e0dafb4b6deb31295543601c33807ea428003576e6942ddb8636aec54f",
+      "num_rows": 788
+    },
+    {
+      "config": "openqa",
+      "name": "openqa-train-00012-of-00062.parquet",
+      "path": "data/openqa/train-00012-of-00062.parquet",
+      "size_bytes": 113508544,
+      "sha256": "e2832d2a38b57598638f08b109a86c352808d52c3c54ec6f227e89c04b84db3d",
+      "num_rows": 788
+    },
+    {
+      "config": "openqa",
+      "name": "openqa-train-00013-of-00062.parquet",
+      "path": "data/openqa/train-00013-of-00062.parquet",
+      "size_bytes": 158488798,
+      "sha256": "64743e27241e95daed288d1ef27178dbd353d4c7d31619b088b5e6aca9435f76",
+      "num_rows": 789
+    },
+    {
+      "config": "openqa",
+      "name": "openqa-train-00014-of-00062.parquet",
+      "path": "data/openqa/train-00014-of-00062.parquet",
+      "size_bytes": 164437193,
+      "sha256": "2a1178414e8c6007af662b07dbc0ae90678a7f798b50a1de0befe6ad417a1df2",
+      "num_rows": 787
+    },
+    {
+      "config": "openqa",
+      "name": "openqa-train-00015-of-00062.parquet",
+      "path": "data/openqa/train-00015-of-00062.parquet",
+      "size_bytes": 111450359,
+      "sha256": "3bb695436b6eaf707df115ce87d71ce9b374df5c055ff8897f60e4cf871bd595",
+      "num_rows": 792
+    },
+    {
+      "config": "openqa",
+      "name": "openqa-train-00016-of-00062.parquet",
+      "path": "data/openqa/train-00016-of-00062.parquet",
+      "size_bytes": 83656041,
+      "sha256": "6d840daee6e02119188d8256f142fcfeaa263c0df5609812bc31b3424c51322f",
+      "num_rows": 789
+    },
+    {
+      "config": "openqa",
+      "name": "openqa-train-00017-of-00062.parquet",
+      "path": "data/openqa/train-00017-of-00062.parquet",
+      "size_bytes": 100518431,
+      "sha256": "21fc4cd62e29fc4a28f7735b0a877e961af7686f2a17082fb347b132c9e4cbdd",
+      "num_rows": 787
+    },
+    {
+      "config": "openqa",
+      "name": "openqa-train-00018-of-00062.parquet",
+      "path": "data/openqa/train-00018-of-00062.parquet",
+      "size_bytes": 90879886,
+      "sha256": "8a1abd635dc2eee46c7202b22a84777fbbd50f483ed85c3704d71bb5d428b032",
+      "num_rows": 788
+    },
+    {
+      "config": "openqa",
+      "name": "openqa-train-00019-of-00062.parquet",
+      "path": "data/openqa/train-00019-of-00062.parquet",
+      "size_bytes": 103563545,
+      "sha256": "1f0c9b11daf512b8cc57d3dc8b3664838878a79569888821c9049ffa7e60aed4",
+      "num_rows": 788
+    },
+    {
+      "config": "openqa",
+      "name": "openqa-train-00020-of-00062.parquet",
+      "path": "data/openqa/train-00020-of-00062.parquet",
+      "size_bytes": 125907116,
+      "sha256": "a4e7c824716f51e22202231a2351c945af89e6963dc79bd85bc9576f1b33875b",
+      "num_rows": 790
+    },
+    {
+      "config": "openqa",
+      "name": "openqa-train-00021-of-00062.parquet",
+      "path": "data/openqa/train-00021-of-00062.parquet",
+      "size_bytes": 111911119,
+      "sha256": "d9e92a537734c7131ee6b6de4b458c84ace148ef94d58ba6208143a732cbc54e",
+      "num_rows": 789
+    },
+    {
+      "config": "openqa",
+      "name": "openqa-train-00022-of-00062.parquet",
+      "path": "data/openqa/train-00022-of-00062.parquet",
+      "size_bytes": 120310739,
+      "sha256": "a2f89d371b70c70660b642db07eb3e7573fe85c858a1d23b68205bf4b44712b2",
+      "num_rows": 791
+    },
+    {
+      "config": "openqa",
+      "name": "openqa-train-00023-of-00062.parquet",
+      "path": "data/openqa/train-00023-of-00062.parquet",
+      "size_bytes": 108064896,
+      "sha256": "fd9b479f554281390ed38af2bf3c05e396510a892196e66a56b1997caf3a37ea",
+      "num_rows": 789
+    },
+    {
+      "config": "openqa",
+      "name": "openqa-train-00024-of-00062.parquet",
+      "path": "data/openqa/train-00024-of-00062.parquet",
+      "size_bytes": 109156816,
+      "sha256": "b4ca4c42d49c66653bb626afec10fed7eba4e62afd53b19fb438fd26b220ba86",
+      "num_rows": 788
+    },
+    {
+      "config": "openqa",
+      "name": "openqa-train-00025-of-00062.parquet",
+      "path": "data/openqa/train-00025-of-00062.parquet",
+      "size_bytes": 107295060,
+      "sha256": "ff62427df15952eb84a4ea726d1a41be11488751010b2743a65e58d076b27f31",
+      "num_rows": 787
+    },
+    {
+      "config": "openqa",
+      "name": "openqa-train-00026-of-00062.parquet",
+      "path": "data/openqa/train-00026-of-00062.parquet",
+      "size_bytes": 97004361,
+      "sha256": "37aed324bca1107cf6dc3dcabc2779dbd148b001357b917421c2268a460af7c2",
+      "num_rows": 791
+    },
+    {
+      "config": "openqa",
+      "name": "openqa-train-00027-of-00062.parquet",
+      "path": "data/openqa/train-00027-of-00062.parquet",
+      "size_bytes": 109769931,
+      "sha256": "de0142219e55b503ae0ab7e8dd1e2693407b7a4997973b6841a2ccebaef0d69a",
+      "num_rows": 789
+    },
+    {
+      "config": "openqa",
+      "name": "openqa-train-00028-of-00062.parquet",
+      "path": "data/openqa/train-00028-of-00062.parquet",
+      "size_bytes": 116741145,
+      "sha256": "0794dc3c32bfe539f5309dd0956db28ef4a3dda1acd365100c199690473c2463",
+      "num_rows": 787
+    },
+    {
+      "config": "openqa",
+      "name": "openqa-train-00029-of-00062.parquet",
+      "path": "data/openqa/train-00029-of-00062.parquet",
+      "size_bytes": 104787063,
+      "sha256": "1c943b9ecb8cd7fbaa44a7a0ac108d4c66decc8d451563acb212075b8a975746",
+      "num_rows": 788
+    },
+    {
+      "config": "openqa",
+      "name": "openqa-train-00030-of-00062.parquet",
+      "path": "data/openqa/train-00030-of-00062.parquet",
+      "size_bytes": 118228800,
+      "sha256": "3ff34b89df4c4679792c367f72ebb098e5c25a14814390a039ff3a3ba1572a64",
+      "num_rows": 790
+    },
+    {
+      "config": "openqa",
+      "name": "openqa-train-00031-of-00062.parquet",
+      "path": "data/openqa/train-00031-of-00062.parquet",
+      "size_bytes": 153539814,
+      "sha256": "2f1f98c710ce88e454497e108c98d67fbacfff29412af48cc7052e0b8430e0d8",
+      "num_rows": 789
+    },
+    {
+      "config": "openqa",
+      "name": "openqa-train-00032-of-00062.parquet",
+      "path": "data/openqa/train-00032-of-00062.parquet",
+      "size_bytes": 174369195,
+      "sha256": "ea11f93b7febdccdbe598c69da1ef4c4daedadc86d1f94432c293a393261e0b8",
+      "num_rows": 790
+    },
+    {
+      "config": "openqa",
+      "name": "openqa-train-00033-of-00062.parquet",
+      "path": "data/openqa/train-00033-of-00062.parquet",
+      "size_bytes": 118151783,
+      "sha256": "65da43d59345d22382b95828637747eeff9faa18cdabe241b924afbb4f42b483",
+      "num_rows": 788
+    },
+    {
+      "config": "openqa",
+      "name": "openqa-train-00034-of-00062.parquet",
+      "path": "data/openqa/train-00034-of-00062.parquet",
+      "size_bytes": 110298875,
+      "sha256": "11c8e833e80583435f5280af0007714366e0199abdf83b530076ab7b96b98b16",
+      "num_rows": 789
+    },
+    {
+      "config": "openqa",
+      "name": "openqa-train-00035-of-00062.parquet",
+      "path": "data/openqa/train-00035-of-00062.parquet",
+      "size_bytes": 131124152,
+      "sha256": "cf2eb8734c2f4a273bfacd83ded4646c1deb0070ec0225515ba34c3c0a874cb4",
+      "num_rows": 791
+    },
+    {
+      "config": "openqa",
+      "name": "openqa-train-00036-of-00062.parquet",
+      "path": "data/openqa/train-00036-of-00062.parquet",
+      "size_bytes": 134928891,
+      "sha256": "4ef43d671c7e0c89755328a5e3a7e3b187a424cce3925fc28bba6ac7f6835d58",
+      "num_rows": 788
+    },
+    {
+      "config": "openqa",
+      "name": "openqa-train-00037-of-00062.parquet",
+      "path": "data/openqa/train-00037-of-00062.parquet",
+      "size_bytes": 111235712,
+      "sha256": "aa4f0f9c06abbe1732d1e7a408335061fa3faafb80316b24bb676258792a1ea8",
+      "num_rows": 790
+    },
+    {
+      "config": "openqa",
+      "name": "openqa-train-00038-of-00062.parquet",
+      "path": "data/openqa/train-00038-of-00062.parquet",
+      "size_bytes": 85749967,
+      "sha256": "6ed1035a1d9d850f2e89b945b23cf0cfdb7a74a98698cb935cb7e66299769aca",
+      "num_rows": 791
+    },
+    {
+      "config": "openqa",
+      "name": "openqa-train-00039-of-00062.parquet",
+      "path": "data/openqa/train-00039-of-00062.parquet",
+      "size_bytes": 98269478,
+      "sha256": "277e6fca82be5f21a0c51367f40bfac814db727e026e103d686b38125717cf24",
+      "num_rows": 787
+    },
+    {
+      "config": "openqa",
+      "name": "openqa-train-00040-of-00062.parquet",
+      "path": "data/openqa/train-00040-of-00062.parquet",
+      "size_bytes": 126699923,
+      "sha256": "9ee917c4471aa596b9eac2a9f4d41212bcb84637385d2ed9a087bf519bd50b60",
+      "num_rows": 788
+    },
+    {
+      "config": "openqa",
+      "name": "openqa-train-00041-of-00062.parquet",
+      "path": "data/openqa/train-00041-of-00062.parquet",
+      "size_bytes": 135994281,
+      "sha256": "75320f82290d1a87a423831add6b28a81b89564335415e8405c3a884c2ba77f8",
+      "num_rows": 789
+    },
+    {
+      "config": "openqa",
+      "name": "openqa-train-00042-of-00062.parquet",
+      "path": "data/openqa/train-00042-of-00062.parquet",
+      "size_bytes": 112513498,
+      "sha256": "f6e2cf6b108416e8b05abedec395fc61e7018342728a53e787ca055c05f5a8f2",
+      "num_rows": 791
+    },
+    {
+      "config": "openqa",
+      "name": "openqa-train-00043-of-00062.parquet",
+      "path": "data/openqa/train-00043-of-00062.parquet",
+      "size_bytes": 90837848,
+      "sha256": "df17c66b72a9fbbda91e73cad4a95903d35e31283214c07b6bef094f5db9e03a",
+      "num_rows": 789
+    },
+    {
+      "config": "openqa",
+      "name": "openqa-train-00044-of-00062.parquet",
+      "path": "data/openqa/train-00044-of-00062.parquet",
+      "size_bytes": 105922946,
+      "sha256": "8b6e122c9061e1c497e4fc24cf4716a6c881bfeaddcb0a5b38301a4140c3e317",
+      "num_rows": 787
+    },
+    {
+      "config": "openqa",
+      "name": "openqa-train-00045-of-00062.parquet",
+      "path": "data/openqa/train-00045-of-00062.parquet",
+      "size_bytes": 81638966,
+      "sha256": "822c71601098b26de2ef622ff0b48716444841bdd40a906b36268397029ca5ea",
+      "num_rows": 788
+    },
+    {
+      "config": "openqa",
+      "name": "openqa-train-00046-of-00062.parquet",
+      "path": "data/openqa/train-00046-of-00062.parquet",
+      "size_bytes": 89653461,
+      "sha256": "ea61b1d63d8a4aa0e526c28faf6ba4808795bd28b2a572a68c05068f71d78574",
+      "num_rows": 788
+    },
+    {
+      "config": "openqa",
+      "name": "openqa-train-00047-of-00062.parquet",
+      "path": "data/openqa/train-00047-of-00062.parquet",
+      "size_bytes": 117945704,
+      "sha256": "d406cb897772f61dd29e9baf2f2c23c8a665bf780f5380769eb7a084fac021b7",
+      "num_rows": 789
+    },
+    {
+      "config": "openqa",
+      "name": "openqa-train-00048-of-00062.parquet",
+      "path": "data/openqa/train-00048-of-00062.parquet",
+      "size_bytes": 147801986,
+      "sha256": "b93ecd91073dda645c2feef3849fe4df8931154f024f61467a489c3019133a2d",
+      "num_rows": 790
+    },
+    {
+      "config": "openqa",
+      "name": "openqa-train-00049-of-00062.parquet",
+      "path": "data/openqa/train-00049-of-00062.parquet",
+      "size_bytes": 106740484,
+      "sha256": "ddda3ec8be437f9954b77edbf3482fdfedd2af8fe15029e3fc053e6aeb05f1cb",
+      "num_rows": 788
+    },
+    {
+      "config": "openqa",
+      "name": "openqa-train-00050-of-00062.parquet",
+      "path": "data/openqa/train-00050-of-00062.parquet",
+      "size_bytes": 131666635,
+      "sha256": "47b7ceb2400e9620610b77a4a01c7417ff112d156e70dc2f919df33f0c7a54ca",
+      "num_rows": 788
+    },
+    {
+      "config": "openqa",
+      "name": "openqa-train-00051-of-00062.parquet",
+      "path": "data/openqa/train-00051-of-00062.parquet",
+      "size_bytes": 165842064,
+      "sha256": "fcd05d2f7112922da10ee482cddef6d4058fdaa1899c0f14ebfcec6768087f11",
+      "num_rows": 789
+    },
+    {
+      "config": "openqa",
+      "name": "openqa-train-00052-of-00062.parquet",
+      "path": "data/openqa/train-00052-of-00062.parquet",
+      "size_bytes": 165667818,
+      "sha256": "4b5fd9f1e57c24c23376c2772a3a853bcc26fb8b63ce60d5ed1a822f7bc86ad3",
+      "num_rows": 787
+    },
+    {
+      "config": "openqa",
+      "name": "openqa-train-00053-of-00062.parquet",
+      "path": "data/openqa/train-00053-of-00062.parquet",
+      "size_bytes": 122333559,
+      "sha256": "88f3b5bcd0d4d5104950fe5502eb282ec998aaab34b7fba02531b85419506bee",
+      "num_rows": 791
+    },
+    {
+      "config": "openqa",
+      "name": "openqa-train-00054-of-00062.parquet",
+      "path": "data/openqa/train-00054-of-00062.parquet",
+      "size_bytes": 129257759,
+      "sha256": "32439bbf728755af2ae915531a03efd57f072b4ae0bf2d6db96718612495f279",
+      "num_rows": 789
+    },
+    {
+      "config": "openqa",
+      "name": "openqa-train-00055-of-00062.parquet",
+      "path": "data/openqa/train-00055-of-00062.parquet",
+      "size_bytes": 152856473,
+      "sha256": "39249b15419a617e8b757daf41556cefb773644c6e9056c6e324e56e903dab06",
+      "num_rows": 787
+    },
+    {
+      "config": "openqa",
+      "name": "openqa-train-00056-of-00062.parquet",
+      "path": "data/openqa/train-00056-of-00062.parquet",
+      "size_bytes": 137206289,
+      "sha256": "2a2cc742053debf94de50c71bc8fbc7a9fb1488c4b8b11e9e8497c8dc7eb43ec",
+      "num_rows": 788
+    },
+    {
+      "config": "openqa",
+      "name": "openqa-train-00057-of-00062.parquet",
+      "path": "data/openqa/train-00057-of-00062.parquet",
+      "size_bytes": 101862840,
+      "sha256": "30197a4c61b1208832e474d648ebb3fc63c5421414ccf6545933d2481518ab39",
+      "num_rows": 788
+    },
+    {
+      "config": "openqa",
+      "name": "openqa-train-00058-of-00062.parquet",
+      "path": "data/openqa/train-00058-of-00062.parquet",
+      "size_bytes": 69577271,
+      "sha256": "d03b7492cd06d2e3e9c579f932894a96eab8b6b21b5f6d2f8e0223cd046c6ec6",
+      "num_rows": 790
+    },
+    {
+      "config": "openqa",
+      "name": "openqa-train-00059-of-00062.parquet",
+      "path": "data/openqa/train-00059-of-00062.parquet",
+      "size_bytes": 99050476,
+      "sha256": "c422d93cea2374c732974589995548e7b34e7032daced459cc387fcaadae22d6",
+      "num_rows": 790
+    },
+    {
+      "config": "openqa",
+      "name": "openqa-train-00060-of-00062.parquet",
+      "path": "data/openqa/train-00060-of-00062.parquet",
+      "size_bytes": 121496477,
+      "sha256": "1e8c6b9173d5d2777aa37f849fee7ef2e282ec189179c545c0c0f4d5180b62f7",
+      "num_rows": 787
+    },
+    {
+      "config": "openqa",
+      "name": "openqa-train-00061-of-00062.parquet",
+      "path": "data/openqa/train-00061-of-00062.parquet",
+      "size_bytes": 32812282,
+      "sha256": "0cb4e4b3358fd9c207ced55fc244cc8bde6833f8db56f5375aa3a5e5c07c8837",
+      "num_rows": 204
+    }
+  ]
+}
